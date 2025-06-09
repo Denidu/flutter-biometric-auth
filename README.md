@@ -1,16 +1,25 @@
-# securevault
+# SecureVault
 
-A new Flutter project.
+SecureVault is a Flutter application that allows users to securely store private notes with biometric authentication, AES encryption, and secure storage.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Biometric authentication using fingerprint or Face ID.
+- AES-256 encryption for securing notes.
+- Encrypted notes stored locally using Flutter Secure Storage.
+- Add, view, and delete encrypted notes.
+- Logout functionality.
 
-A few resources to get you started if this is your first Flutter project:
+## Usage
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. Launch the app.
+2. Authenticate with biometrics to access your vault.
+3. Add secure notes which are encrypted and saved locally.
+4. View your stored notes in a secure environment.
+5. Delete notes you no longer need.
+6. Logout to lock the vault.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## License
+
+This project is for educational purposes.
+
