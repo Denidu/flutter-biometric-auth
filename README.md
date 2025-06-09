@@ -19,7 +19,4 @@ SecureVault is a Flutter application that allows users to securely store private
 5. Delete notes you no longer need.
 6. Logout to lock the vault.
 
-## License
-
-This project is for educational purposes.
 
